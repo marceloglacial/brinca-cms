@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_components_form_hubspots",
+  "info": {
+    "displayName": "Form - Hubspot",
+    "icon": "cloud"
+  },
+  "options": {},
+  "attributes": {
+    "formId": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
