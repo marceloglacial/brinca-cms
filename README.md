@@ -38,3 +38,7 @@ Follow [Fly.io](https://documentation-git-fork-bogdaaamn-docs-fly-deplo-460c6b-s
 ```
 yarn deploy
 ```
+
+Check the changes on:
+
+https://brinca-cms.fly.dev/admin/

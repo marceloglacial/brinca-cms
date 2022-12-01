@@ -1,6 +1,6 @@
-# fly.toml file generated for strapi-cms-starter-boilerplate on 2022-11-27T18:49:02-05:00
+# fly.toml file generated for brinca-cms on 2022-11-30T19:51:01-05:00
 
-app = "strapi-cms-starter-boilerplate"
+app = "brinca-cms"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
