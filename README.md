@@ -1,9 +1,6 @@
-# Strapi CMS Starter Boilerplate
+# Brinca CMS
 
-## 💻 Stack
-
-- [Stapi](https://strapi.io) CMS
-- [Fly.io](https://fly.io) Hosting
+Content Management System for [Brinca.ca](https://brinca.ca) based on [Stapi](https://strapi.io) and hosted on [Fly.io](https://fly.io).
 
 ## 🚀 Getting started
 
