@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_components_content_lists",
+  "info": {
+    "displayName": "Content List",
+    "icon": "th-list",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "items": {
+      "type": "integer",
+      "default": 1,
+      "required": true,
+      "min": 1
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "pages",
+        "events"
+      ],
+      "default": "pages",
+      "required": true
+    }
+  }
+}
