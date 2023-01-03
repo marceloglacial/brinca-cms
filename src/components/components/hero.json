@@ -23,11 +23,6 @@
         "images"
       ]
     },
-    "button": {
-      "type": "component",
-      "repeatable": true,
-      "component": "components.button"
-    },
     "shadow": {
       "type": "boolean",
       "default": true
@@ -35,6 +30,11 @@
     "rounded": {
       "type": "boolean",
       "default": true
+    },
+    "buttons": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.button"
     }
   }
 }
